@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**JoffreyxD/JoffreyxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Joffrey James Pajaron
 
-Here are some ideas to get you started:
+🧠 **Aspiring Software Engineer** | 💻 Currently Learning Web Development  
+📊 Background in Data Analysis (4 years) & Medical Billing (1 year 8 months)  
+🎓 BS in Information Technology  
+🌱 On a journey to become a full-stack developer (React, JavaScript, Node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 What I'm Learning
+
+- ✅ JavaScript (ES6+)
+- ✅ React & Vite
+- ⏳ Node.js & Express (coming soon)
+- ⏳ MongoDB (coming soon)
+- ⏳ Git & GitHub for version control
+
+---
+
+## 🛠 Projects I'm Working On
+
+### 🔹 [Stopwatch App](https://joffreyxd.github.io/Stopwatch-react-app/)
+Simple stopwatch built using React and Vite.  
+> Focused on React state, events, and component structure.
+
+### 🔹 [Amazon Homepage Clone](https://joffreyxd.github.io/updated-amazon-clone/)
+Practicing HTML/CSS layout with a basic clone of Amazon’s homepage.
+
+---
+
+## 💡 Goals
+
+- 🔁 Practice building real-world web apps
+- 🧠 Master React and core JavaScript concepts
+- 💼 Land my first role as a junior software engineer
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: joffreypajaron@gmail.com  
+- 🌐 Portfolio: *(Add your link if available)*  
+- 📍 Based in Cebu, Philippines  
+
+---
+
+## ⚙️ GitHub Stats
+
+![Joffrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoffreyxD&show_icons=true&theme=radical)
