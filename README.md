@@ -40,7 +40,6 @@ Practicing HTML/CSS layout with a basic clone of Amazon’s homepage.
 ## 📫 Let's Connect
 
 - 📧 Email: joffreypajaron@gmail.com  
-- 🌐 Portfolio: *(Add your link if available)*  
 - 📍 Based in Cebu, Philippines  
 
 ---
