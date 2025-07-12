@@ -2,7 +2,7 @@
 # 👋 Hi there, I'm Joffrey James Pajaron
 
 🧠 **Aspiring Software Engineer** | 💻 Currently Learning Web Development  
-📊 Background in Data Analysis (4 years) & Medical Billing (1 year 8 months)  
+📊 Background in Data Analysis (4 years) & Medical Billing (1 year 9 months)  
 🎓 BS in Information Technology  
 🌱 On a journey to become a full-stack developer (React, JavaScript, Node.js)
 
