@@ -27,7 +27,7 @@ Simple stopwatch built using React and Vite.
 ### 🔹 [Amazon Homepage Clone](https://joffreyxd.github.io/updated-amazon-clone/)
 Practicing HTML/CSS layout with a basic clone of Amazon’s homepage.
 
-### 🔹 Movie Search App
+### 🔹[Movie Search App](https://joffreyxd.github.io/Movie-react-app/)
 A movie search and favorites app built with React + Vite.
 
 Practiced API integration, state management, and client-side routing.
